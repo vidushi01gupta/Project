@@ -22,12 +22,16 @@ Designed with small communities in mind, making it practical for real-world adop
 ## Tech Stack
 ### Frontend:
 HTML
+
 CSS
-### JavaScript
-Backend (Prototype Options):
+
+JavaScript
+### Backend (Prototype Options):
 Java (Servlet/JSP)
 or
+
 C++ (simulated backend for demonstration)
 ### Database & Storage:
 Firebase Realtime Database
+
 LocalStorage (for certain client-side data)
